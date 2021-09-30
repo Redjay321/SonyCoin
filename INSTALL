@@ -1,0 +1,9 @@
+Building Sonycoin
+
+See doc/readme-qt.rst for instructions on building Sonycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sonycoin.
+
+See doc/build-*.txt for instructions on building sonycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sonycoin.
